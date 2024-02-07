@@ -33,3 +33,6 @@ use Silarhi\Hello;
 $hello = new Hello();
 echo $hello->display() . "\n";
 ```
+#github actions workflows
+![image](https://github.com/dashainCodes/powerworkshop-Devops/assets/157484052/d16d6ece-fcec-4d4f-bc4e-b289bb136faf)
+

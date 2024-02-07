@@ -7,13 +7,13 @@ Install with composer
 ``` bash
 docker-compose up -d
 ```
+![image](https://github.com/dashainCodes/powerworkshop-Devops/assets/157484052/41e3cf3d-3824-4f83-9fc3-f297a796f782)
 
 docker image build
 ``` bash
 docker build -t dashain7/devops-workshop:latest .
 
 ```
-![image](https://github.com/dashainCodes/powerworkshop-Devops/assets/157484052/6cf7ba7b-13e8-47cd-8756-775fc5e497ad)
 
 
 github actions workflows
